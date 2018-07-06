@@ -1,2 +1,5 @@
 vendor/
 .idea/
+/var/cache
+!/var/cache/.gitkeep
+composer.lock
