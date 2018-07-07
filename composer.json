@@ -3,6 +3,7 @@
     "type": "project",
     "license": "proprietary",
     "require": {
-        "latte/latte": "2.2.*"
+        "latte/latte": "2.2.*",
+        "phpbenchmarks/latte-common": "2.1.0"
     }
 }
