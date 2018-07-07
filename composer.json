@@ -1,0 +1,8 @@
+{
+    "name": "phpbenchmarks/latte",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "latte/latte": "2.2.*"
+    }
+}
